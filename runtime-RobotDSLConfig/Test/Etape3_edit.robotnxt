@@ -1,0 +1,14 @@
+Choreography dessin {
+	PenDown,
+	GoForward (50),
+	TurnRight ( 90 ),
+	GoForward ( 50 ),
+	TurnLeft ( 30 ), 
+	GoForward ( 80 ),	
+	Choreography subdessin {
+	TurnRight ( 170 ),
+	PenUp,
+	GoForward ( 50 )
+	 },
+	TurnRight (90)
+}

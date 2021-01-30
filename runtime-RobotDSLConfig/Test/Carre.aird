@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:robotnxt="http://www.ensma.fr/tpidm/robotnxt/0.0.1" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_Ifbv8FseEeuknq6BPR_Igg" selectedViews="_JlTL0FseEeuknq6BPR_Igg" version="14.3.1.202003261200">
+    <semanticResources>Carre.robotnxt</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_JlTL0FseEeuknq6BPR_Igg">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_JmFO8FseEeuknq6BPR_Igg" name="Choreography Diagram" repPath="#_JlmGwFseEeuknq6BPR_Igg" changeId="9511142e-a4c2-4998-bc47-032c63ed3a38">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+        <target xmi:type="robotnxt:Choreography" href="Carre.robotnxt#Dessin"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Jt68UVseEeuknq6BPR_Igg" name="Choreography Diagram" repPath="#_Jt6VQFseEeuknq6BPR_Igg" changeId="9e7df729-35ad-4cc0-9614-4db5a4e73246">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+        <target xmi:type="robotnxt:Choreography" href="Carre.robotnxt#subdessin"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_JlmGwFseEeuknq6BPR_Igg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_JmWUsFseEeuknq6BPR_Igg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_JmW7wFseEeuknq6BPR_Igg" type="Sirius" element="_JlmGwFseEeuknq6BPR_Igg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_JpST8FseEeuknq6BPR_Igg" type="2001" element="_JmnacFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JpZBoFseEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JpZBoVseEeuknq6BPR_Igg" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JtyZcFseEeuknq6BPR_Igg" type="3005" element="_JozLwFseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JtyZcVseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtyZclseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JpST8VseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JpST8lseEeuknq6BPR_Igg" x="216" y="36" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JtOYwFseEeuknq6BPR_Igg" type="2001" element="_Jo4rUFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JtOYw1seEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JtOYxFseEeuknq6BPR_Igg" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JtzAgFseEeuknq6BPR_Igg" type="3005" element="_Jo4rUVseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JtzAgVseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtzAglseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JtOYwVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtOYwlseEeuknq6BPR_Igg" x="828" y="47" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JtSDIFseEeuknq6BPR_Igg" type="2001" element="_Jo5SYVseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JtSDI1seEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JtSDJFseEeuknq6BPR_Igg" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JtzAg1seEeuknq6BPR_Igg" type="3005" element="_Jo5SYlseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JtzAhFseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtzAhVseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JtSDIVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtSDIlseEeuknq6BPR_Igg" x="576" y="47" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JtVGcFseEeuknq6BPR_Igg" type="2001" element="_Jo55cFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JtVtgFseEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JtVtgVseEeuknq6BPR_Igg" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JtznkFseEeuknq6BPR_Igg" type="3005" element="_Jo55cVseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_JtznkVseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtznklseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JtVGcVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtVGclseEeuknq6BPR_Igg" x="396" y="36" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JtZX4FseEeuknq6BPR_Igg" type="2001" element="_Jo6ggFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JtZ-8FseEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JtZ-8VseEeuknq6BPR_Igg" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Jt01sFseEeuknq6BPR_Igg" type="3005" element="_Jo7HkFseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Jt01sVseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jt01slseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JtZX4VseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtZX4lseEeuknq6BPR_Igg" x="306" y="26" width="50" height="54"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JtnaUFseEeuknq6BPR_Igg" type="2001" element="_Jo7uoFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JtnaU1seEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JtnaVFseEeuknq6BPR_Igg" y="-21"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Jt01s1seEeuknq6BPR_Igg" type="3005" element="_Jo7uoVseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Jt01tFseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jt01tVseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JtnaUVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtnaUlseEeuknq6BPR_Igg" x="486" y="26" width="50" height="54"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JtqdoFseEeuknq6BPR_Igg" type="2001" element="_Jo8VsFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JtrEsFseEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JtrEsVseEeuknq6BPR_Igg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Jt1cwFseEeuknq6BPR_Igg" type="3005" element="_Jo8VsVseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Jt1cwVseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jt1cwlseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JtqdoVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JtqdolseEeuknq6BPR_Igg" x="133" y="34" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_Jtv9MFseEeuknq6BPR_Igg" type="2003" element="_Jo9j0FseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JtwkQFseEeuknq6BPR_Igg" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_JtxyYFseEeuknq6BPR_Igg" type="7004">
+            <children xmi:type="notation:Node" xmi:id="_Jt2D0FseEeuknq6BPR_Igg" type="3010" element="_JpAAEFseEeuknq6BPR_Igg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_Jt2D0VseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Jt2D0lseEeuknq6BPR_Igg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Jt2D01seEeuknq6BPR_Igg" type="3010" element="_JpCcUFseEeuknq6BPR_Igg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_Jt2D1FseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Jt2D1VseEeuknq6BPR_Igg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Jt2q4FseEeuknq6BPR_Igg" type="3010" element="_JpDDYFseEeuknq6BPR_Igg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_Jt2q4VseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Jt2q4lseEeuknq6BPR_Igg"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_Jt2q41seEeuknq6BPR_Igg" type="3010" element="_JpDDYlseEeuknq6BPR_Igg">
+              <styles xmi:type="notation:FontStyle" xmi:id="_Jt2q5FseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Jt2q5VseEeuknq6BPR_Igg"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_JtxyYVseEeuknq6BPR_Igg"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_JtxyYlseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Jtv9MVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jtv9MlseEeuknq6BPR_Igg" x="648"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_JmW7wVseEeuknq6BPR_Igg"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_JpE4kFseEeuknq6BPR_Igg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_JpFfoFseEeuknq6BPR_Igg"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_JmnacFseEeuknq6BPR_Igg" name="100 cm" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:GoForward" href="Carre.robotnxt#//@instructions.1"/>
+      <semanticElements xmi:type="robotnxt:GoForward" href="Carre.robotnxt#//@instructions.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_JozLwFseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jo4rUFseEeuknq6BPR_Igg" name="100 cm" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:GoForward" href="Carre.robotnxt#//@instructions.3"/>
+      <semanticElements xmi:type="robotnxt:GoForward" href="Carre.robotnxt#//@instructions.3"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jo4rUVseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jo5SYVseEeuknq6BPR_Igg" name="100 cm" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:GoForward" href="Carre.robotnxt#//@instructions.5"/>
+      <semanticElements xmi:type="robotnxt:GoForward" href="Carre.robotnxt#//@instructions.5"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jo5SYlseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoForward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jo55cFseEeuknq6BPR_Igg" name="100 cm" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:GoBackward" href="Carre.robotnxt#//@instructions.7"/>
+      <semanticElements xmi:type="robotnxt:GoBackward" href="Carre.robotnxt#//@instructions.7"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jo55cVseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoBackward']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_GoBackward']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jo6ggFseEeuknq6BPR_Igg" name="90°" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:TurnRight" href="Carre.robotnxt#//@instructions.2"/>
+      <semanticElements xmi:type="robotnxt:TurnRight" href="Carre.robotnxt#//@instructions.2"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jo7HkFseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/TurnRight.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_TurnRight']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_TurnRight']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jo7uoFseEeuknq6BPR_Igg" name="90°" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:TurnRight" href="Carre.robotnxt#//@instructions.4"/>
+      <semanticElements xmi:type="robotnxt:TurnRight" href="Carre.robotnxt#//@instructions.4"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jo7uoVseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/TurnRight.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_TurnRight']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_TurnRight']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jo8VsFseEeuknq6BPR_Igg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:PenDown" href="Carre.robotnxt#//@instructions.0"/>
+      <semanticElements xmi:type="robotnxt:PenDown" href="Carre.robotnxt#//@instructions.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jo8VsVseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_PenDown']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_PenDown']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" uid="_Jo9j0FseEeuknq6BPR_Igg" name="subdessin">
+      <target xmi:type="robotnxt:Choreography" href="Carre.robotnxt#subdessin"/>
+      <semanticElements xmi:type="robotnxt:Choreography" href="Carre.robotnxt#subdessin"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_Jo-x8FseEeuknq6BPR_Igg" labelSize="12" borderSize="1" borderSizeComputationExpression="1" backgroundColor="186,223,225" foregroundColor="186,223,225">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_JpAAEFseEeuknq6BPR_Igg">
+        <target xmi:type="robotnxt:PenUp" href="Carre.robotnxt#//@instructions.6/@instructions.0"/>
+        <semanticElements xmi:type="robotnxt:PenUp" href="Carre.robotnxt#//@instructions.6/@instructions.0"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_JpB1QFseEeuknq6BPR_Igg" labelSize="12" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_JpCcUFseEeuknq6BPR_Igg">
+        <target xmi:type="robotnxt:Grab" href="Carre.robotnxt#//@instructions.6/@instructions.1"/>
+        <semanticElements xmi:type="robotnxt:Grab" href="Carre.robotnxt#//@instructions.6/@instructions.1"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_JpCcUVseEeuknq6BPR_Igg" labelSize="12" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_JpDDYFseEeuknq6BPR_Igg">
+        <target xmi:type="robotnxt:Release" href="Carre.robotnxt#//@instructions.6/@instructions.2"/>
+        <semanticElements xmi:type="robotnxt:Release" href="Carre.robotnxt#//@instructions.6/@instructions.2"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_JpDDYVseEeuknq6BPR_Igg" labelSize="12" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_JpDDYlseEeuknq6BPR_Igg" name="90Â°">
+        <target xmi:type="robotnxt:TurnLeft" href="Carre.robotnxt#//@instructions.6/@instructions.3"/>
+        <semanticElements xmi:type="robotnxt:TurnLeft" href="Carre.robotnxt#//@instructions.6/@instructions.3"/>
+        <ownedStyle xmi:type="diagram:Square" uid="_JpDqcFseEeuknq6BPR_Igg" labelSize="12" labelPosition="node">
+          <description xmi:type="style:SquareDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@containerMappings[name='CD_SubChoreography']/@subNodeMappings[name='CD_SubInstruction']"/>
+      </ownedElements>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_JlvQsFseEeuknq6BPR_Igg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer"/>
+    <target xmi:type="robotnxt:Choreography" href="Carre.robotnxt#Dessin"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram uid="_Jt6VQFseEeuknq6BPR_Igg">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Jt7jYFseEeuknq6BPR_Igg" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_Jt7jYVseEeuknq6BPR_Igg" type="Sirius" element="_Jt6VQFseEeuknq6BPR_Igg" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_Jt-msFseEeuknq6BPR_Igg" type="2001" element="_Jt8KcFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_Jt_NwFseEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Jt_NwVseEeuknq6BPR_Igg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ju-sQFseEeuknq6BPR_Igg" type="3005" element="_Jt8KcVseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Ju-sQVseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ju-sQlseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Jt-msVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jt-mslseEeuknq6BPR_Igg" width="50" height="33"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JuPFYFseEeuknq6BPR_Igg" type="2001" element="_Jt8xgVseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JuPFY1seEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JuPFZFseEeuknq6BPR_Igg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ju-sQ1seEeuknq6BPR_Igg" type="3005" element="_Jt8xglseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Ju-sRFseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ju-sRVseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JuPFYVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JuPFYlseEeuknq6BPR_Igg" width="50" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JucgwFseEeuknq6BPR_Igg" type="2001" element="_Jt9YkFseEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_JudH0FseEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JudH0VseEeuknq6BPR_Igg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ju_TUFseEeuknq6BPR_Igg" type="3005" element="_Jt9YkVseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Ju_TUVseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ju_TUlseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JucgwVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JucgwlseEeuknq6BPR_Igg" width="50" height="51"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_JutmgFseEeuknq6BPR_Igg" type="2001" element="_Jt9Yk1seEeuknq6BPR_Igg">
+          <children xmi:type="notation:Node" xmi:id="_Juu0oFseEeuknq6BPR_Igg" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Juu0oVseEeuknq6BPR_Igg" x="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ju_TU1seEeuknq6BPR_Igg" type="3005" element="_Jt9_oFseEeuknq6BPR_Igg">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Ju_TVFseEeuknq6BPR_Igg" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ju_TVVseEeuknq6BPR_Igg"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_JutmgVseEeuknq6BPR_Igg" fontName="Segoe UI" fontHeight="12"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JutmglseEeuknq6BPR_Igg" width="50" height="54"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_Jt7jYlseEeuknq6BPR_Igg"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Jt9_olseEeuknq6BPR_Igg" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_Jt9_o1seEeuknq6BPR_Igg"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jt8KcFseEeuknq6BPR_Igg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:PenUp" href="Carre.robotnxt#//@instructions.6/@instructions.0"/>
+      <semanticElements xmi:type="robotnxt:PenUp" href="Carre.robotnxt#//@instructions.6/@instructions.0"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jt8KcVseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/GoForward.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_PenUp']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_PenUp']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jt8xgVseEeuknq6BPR_Igg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:Grab" href="Carre.robotnxt#//@instructions.6/@instructions.1"/>
+      <semanticElements xmi:type="robotnxt:Grab" href="Carre.robotnxt#//@instructions.6/@instructions.1"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jt8xglseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/Grab.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Grab']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jt9YkFseEeuknq6BPR_Igg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:Release" href="Carre.robotnxt#//@instructions.6/@instructions.2"/>
+      <semanticElements xmi:type="robotnxt:Release" href="Carre.robotnxt#//@instructions.6/@instructions.2"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jt9YkVseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/Release.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_Release']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" uid="_Jt9Yk1seEeuknq6BPR_Igg" width="-1" height="-1" resizeKind="NSEW">
+      <target xmi:type="robotnxt:TurnLeft" href="Carre.robotnxt#//@instructions.6/@instructions.3"/>
+      <semanticElements xmi:type="robotnxt:TurnLeft" href="Carre.robotnxt#//@instructions.6/@instructions.3"/>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" uid="_Jt9_oFseEeuknq6BPR_Igg" labelSize="12" showIcon="false" workspacePath="/fr.ensma.idm.choreography.design/description/images/TurnLeft.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_TurnLeft']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer/@nodeMappings[name='CD_TurnLeft']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_Jt6VQVseEeuknq6BPR_Igg"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/fr.ensma.idm.choreography.design/description/choreography.odesign#//@ownedViewpoints[name='RobotNXT']/@ownedRepresentations[name='Choreography%20Diagram']/@defaultLayer"/>
+    <target xmi:type="robotnxt:Choreography" href="Carre.robotnxt#subdessin"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
